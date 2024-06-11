@@ -134,5 +134,3 @@ function acceptCookies() {
 </p>
 </footer>
 </section>
-</body>
-</html>
